@@ -2,4 +2,4 @@
 
 Professor Marco Maddo
 
-(Link do curso na Udemy)[https://www.udemy.com/course/desenvolvimento-android-do-absoluto-zero-para-iniciantes/]
+[Link do curso na Udemy](https://www.udemy.com/course/desenvolvimento-android-do-absoluto-zero-para-iniciantes/)
